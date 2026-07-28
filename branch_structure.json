@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/apps/web/tailwindcss-4.3.3",
+    "dependabot/npm_and_yarn/apps/web/tailwindcss/postcss-4.3.3",
+    "dependabot/npm_and_yarn/apps/web/types/node-26.1.1",
+    "dependabot/npm_and_yarn/dev-dependencies-9ba38af3e1",
+    "fix/automate-validation-taxonomy-labels-911",
+    "main",
+    "origin",
+    "pretest/automate-validation-taxonomy-labels-911"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/apps/web/tailwindcss-4.3.3": "main",
+    "dependabot/npm_and_yarn/apps/web/tailwindcss/postcss-4.3.3": "main",
+    "dependabot/npm_and_yarn/apps/web/types/node-26.1.1": "main",
+    "dependabot/npm_and_yarn/dev-dependencies-9ba38af3e1": "main",
+    "fix/automate-validation-taxonomy-labels-911": "main",
+    "main": null,
+    "origin": "main",
+    "pretest/automate-validation-taxonomy-labels-911": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/apps/web/tailwindcss-4.3.3",
+    "dependabot/npm_and_yarn/apps/web/tailwindcss/postcss-4.3.3",
+    "dependabot/npm_and_yarn/apps/web/types/node-26.1.1",
+    "dependabot/npm_and_yarn/dev-dependencies-9ba38af3e1",
+    "fix/automate-validation-taxonomy-labels-911",
+    "origin",
+    "pretest/automate-validation-taxonomy-labels-911"
+  ]
+}
